@@ -1,4 +1,8 @@
-# Power Prompts by Shofi Ahmed Uddin  
+# Power Prompts by Shofi Ahmed Uddin 
+<p align="center">
+  <img src="https://github.com/fshofi/PowerPrompts-By-ShofiAhmedUddin/raw/main/PowerPromptKit_Header_Under1MB.png" alt="Power Prompt Kit — Where Clarity Becomes Design" width="100%">
+</p>
+
 _A curated portfolio of high-precision prompts for AI dialogue, creation, and enterprise strategy._
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
