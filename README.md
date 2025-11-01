@@ -3,7 +3,7 @@
   <img src="https://github.com/fshofi/PowerPrompts-By-ShofiAhmedUddin/raw/main/PowerPromptKit_Header_Under1MB.png" alt="Power Prompt Kit — Where Clarity Becomes Design" width="100%">
 </p>
 Featured in Nineteen Defining Rules: To Be or Not Be Master at ChatGPT — Explore the Power Prompt Kit.
-_A curated portfolio of high-precision prompts for AI dialogue, creation, and enterprise strategy_.
+A curated portfolio of high-precision prompts for AI dialogue, creation, and enterprise strategy.
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
